@@ -42,7 +42,7 @@ RUN chmod +x /usr/bin/xteve
 RUN chmod +x /usr/bin/guide2go
 
 # Expose Port
-EXPOSE 34400
+EXPOSE 34500
 
 # Entrypoint
 ENTRYPOINT ["./entrypoint.sh"]

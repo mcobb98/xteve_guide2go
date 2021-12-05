@@ -19,11 +19,11 @@ JsonList="CBLguide.yaml SATguide.yaml SATSport.yaml"
 
 ### xTeve ip, Port in case API is used to update XEPG
 xTeveIP="192.168.1.2"
-xTevePORT="34400"
+xTevePORT="34500"
 
 ### setup rewrite rule für Reverse Proxy https xml usage
 # the rewritten url will be then http://yourxtevedomain.de/xmltv/xteverp.xml
-xtevelocal="http://192.168.1.67:34400"
+xtevelocal="http://192.168.1.67:34500"
 xteveRP="https://xteve.mydomain.de"
 xtevelocalfile="/root/.xteve/data/xteve.xml"
 xteveRPfile="/root/.xteve/data/xteverp.xml"

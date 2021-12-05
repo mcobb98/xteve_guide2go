@@ -1,7 +1,7 @@
 # xteve, guide2go in one docker with cron
 
 docker runs in host mode \
-access xteve webui ip:34400/web/
+access xteve webui ip:34500/web/
 
 after docker start check your config folder and do your setups, setup is persistent, start from scratch by delete them
 
